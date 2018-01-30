@@ -1,1 +1,1 @@
-Original technicial articles.
+Original technical articles.
