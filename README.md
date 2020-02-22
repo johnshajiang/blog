@@ -8,3 +8,4 @@
 * [Exploring HTTP 2: Stream states](https://github.com/johnshajiang/blog/wiki/Exploring-HTTP-2:-Stream-states)
 * [Exploring HTTP 2: Simple demos](https://github.com/johnshajiang/blog/wiki/Exploring-HTTP-2:-Simple-demos)
 * [Exploring HTTP 2: Server push](https://github.com/johnshajiang/blog/wiki/Exploring-HTTP-2:-Server-push)
+* [Exploring HTTP 2: Deploy testing server and client](https://github.com/johnshajiang/blog/wiki/Exploring-HTTP-2:-Deploy-testing-server-and-client)
