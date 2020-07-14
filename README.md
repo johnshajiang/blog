@@ -2,6 +2,7 @@
 * [Exploring TLS 1.3 with OpenSSL 1.1.1](https://github.com/johnshajiang/blog/wiki/Exploring-TLS-1.3-with-OpenSSL-1.1.1)
 * [Generating certificates with OpenSSL](https://github.com/johnshajiang/blog/wiki/Generating-Certificates-with-OpenSSL)
 * [Generating common test certificates](https://github.com/johnshajiang/blog/wiki/Generating-common-test-certificates)
+* [Check certificate revocation status with OpenSSL](https://github.com/johnshajiang/blog/wiki/Check-certificate-revocation-status-with-OpenSSL)
 
 ### Exploring HTTP 2
 * [Exploring HTTP 2: HTTP 2](https://github.com/johnshajiang/blog/wiki/Exploring-HTTP-2:-HTTP-2)
